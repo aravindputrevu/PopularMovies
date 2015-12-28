@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_sort">Sort</string>
+    <string name="title_activity_movie_details">MovieDetailsActivity</string>
+    <string name="toolBarTitle">Popular Movies</string>
+    <string name="mostPopular">Most Popular</string>
+    <string name="topRated">Top Rated</string>
+    <string name="moveObject">movie_object</string>
+    <string name="progressDialogText">Fetching Movies..</string>
+    <string name="release_date">Release Date</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="plot">Plot</string>
+    <string name="title">Movie Name</string>
+    <string name="no_overview">No overview found..</string>
+</resources>
